@@ -3,6 +3,6 @@
 
 ## [快速开始](zh-cn/quickstart)
 
-### 初始化项目
+### 初始化项目 {docsify-updated}
 
-## 定制导航
+## 定制导航 {docsify-updated}
